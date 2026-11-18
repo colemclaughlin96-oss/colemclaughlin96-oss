@@ -10,6 +10,13 @@ At ATTN, I work on Google and Meta campaigns, landing pages, GoHighLevel workflo
 
 I define the business problem, map the workflow, and use tools such as ChatGPT, Codex, Claude, and Manus to help implement it. I review outputs, test scenarios, and check that the result matches the intended business behavior. My portfolio reflects that combination of operational judgment and AI-assisted development.
 
+## Try a one-minute demo
+
+These new, AI-assisted demonstrations use synthetic data to explain approaches from my reporting and tracking work.
+
+- **[Paid Media Reporting QA — live demo](https://colemclaughlin96-oss.github.io/paid-media-reporting-qa/)** — explore duplicate rows and wrong reporting windows, and see why matching totals alone are not enough. [Source and walkthrough](https://github.com/colemclaughlin96-oss/paid-media-reporting-qa).
+- **[Conversion Tracking QA — live demo](https://colemclaughlin96-oss.github.io/conversion-tracking-qa/)** — compare fresh and returning visitors during a simulated migration, then separate browser checks from call and conversion evidence. [Source and walkthrough](https://github.com/colemclaughlin96-oss/conversion-tracking-qa).
+
 ## Selected projects
 
 - **[AI CRM Event Bridge](https://github.com/colemclaughlin96-oss/attn-ghl-event-bridge-portfolio)** — inbound message processing, CRM context, duplicate-send protection, and human handoff safeguards.
