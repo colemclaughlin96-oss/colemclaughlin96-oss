@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Cole McLaughlin
 
-<!--
-**colemclaughlin96-oss/colemclaughlin96-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRM workflows · Marketing automation · AI-assisted business tools**
 
-Here are some ideas to get you started:
+I turn service-business needs into practical CRM workflows, marketing systems, and AI-assisted tools. My work combines hands-on business operations with lead capture, follow-up, campaign tracking, and implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At ATTN, I work on Google and Meta campaigns, landing pages, GoHighLevel workflows, and call/conversion tracking. My background also includes owning and operating an exterior-cleaning business and working in remote sales development. That experience helps me understand what teams need from their software: clear processes, useful information, and fewer missed handoffs.
+
+## How I work
+
+I define the business problem, map the workflow, and use tools such as ChatGPT, Codex, Claude, and Manus to help implement it. I review outputs, test scenarios, and check that the result matches the intended business behavior. My portfolio reflects that combination of operational judgment and AI-assisted development.
+
+## Selected projects
+
+- **[AI CRM Event Bridge](https://github.com/colemclaughlin96-oss/attn-ghl-event-bridge-portfolio)** — inbound message processing, CRM context, duplicate-send protection, and human handoff safeguards.
+- **[QuoteBid](https://github.com/colemclaughlin96-oss/quotebid-portfolio)** — quoting, proposal approval, pricing, and GoHighLevel integration.
+- **[Bayside Landing Page](https://github.com/colemclaughlin96-oss/bayside-landing-portfolio)** — lead capture, quote forms, and CRM routing.
+- **[Big Bend Wash Pros](https://github.com/colemclaughlin96-oss/big-bend-wash-pros-portfolio)** — a service-business website with quoting and CRM integrations.
+
+These repositories contain sanitized project source and documentation for public review.
+
+**Tools I work with:** GoHighLevel, Housecall Pro, Google Ads, Meta Ads, CallRail, ChatGPT, Codex, Claude, and Manus.
+
+## Let's connect
+
+I'm based in Washington State and interested in remote, hands-on roles in CRM implementation, marketing automation, marketing operations, and AI workflow implementation.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/cole-mclaughlin-027135180/)
